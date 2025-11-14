@@ -1,0 +1,22 @@
+[
+  { "id": "pal", "officialName": "Palmeiras", "shortName": "Palmeiras", "slug": "palmeiras", "aliases": ["Palmeiras", "SEP", "Sociedade Esportiva Palmeiras"], "shield": "" },
+  { "id": "fla", "officialName": "Flamengo", "shortName": "Flamengo", "slug": "flamengo", "aliases": ["Flamengo", "CRF", "Clube de Regatas do Flamengo"], "shield": "" },
+  { "id": "cru", "officialName": "Cruzeiro", "shortName": "Cruzeiro", "slug": "cruzeiro", "aliases": ["Cruzeiro", "Cruzeiro EC"], "shield": "" },
+  { "id": "san", "officialName": "Santos", "shortName": "Santos", "slug": "santos", "aliases": ["Santos", "Santos FC", "Peixe"], "shield": "" },
+  { "id": "mir", "officialName": "Mirassol", "shortName": "Mirassol", "slug": "mirassol", "aliases": ["Mirassol", "Mirassol FC"], "shield": "" },
+  { "id": "bah", "officialName": "Bahia", "shortName": "Bahia", "slug": "bahia", "aliases": ["Bahia", "EC Bahia"], "shield": "" },
+  { "id": "bot", "officialName": "Botafogo", "shortName": "Botafogo", "slug": "botafogo", "aliases": ["Botafogo", "Botafogo FR"], "shield": "" },
+  { "id": "flu", "officialName": "Fluminense", "shortName": "Fluminense", "slug": "fluminense", "aliases": ["Fluminense", "FFC", "Fluminense FC"], "shield": "" },
+  { "id": "sao", "officialName": "São Paulo", "shortName": "São Paulo", "slug": "sao-paulo", "aliases": ["São Paulo", "São Paulo FC", "SPFC"], "shield": "" },
+  { "id": "cor", "officialName": "Corinthians", "shortName": "Corinthians", "slug": "corinthians", "aliases": ["Corinthians", "SCCP"], "shield": "" },
+  { "id": "gre", "officialName": "Grêmio", "shortName": "Grêmio", "slug": "gremio", "aliases": ["Grêmio", "Grêmio FBPA"], "shield": "" },
+  { "id": "int", "officialName": "Internacional", "shortName": "Internacional", "slug": "internacional", "aliases": ["Internacional", "SC Internacional", "Inter"], "shield": "" },
+  { "id": "vas", "officialName": "Vasco", "shortName": "Vasco", "slug": "vasco", "aliases": ["Vasco", "Vasco da Gama", "CRVG"], "shield": "" },
+  { "id": "cam", "officialName": "Atlético Mineiro", "shortName": "Atlético-MG", "slug": "atletico-mg", "aliases": ["Atlético Mineiro", "Atlético-MG", "Galo"], "shield": "" },
+  { "id": "rbb", "officialName": "Red Bull Bragantino", "shortName": "Bragantino", "slug": "rb-bragantino", "aliases": ["Bragantino", "RB Bragantino"], "shield": "" },
+  { "id": "for", "officialName": "Fortaleza", "shortName": "Fortaleza", "slug": "fortaleza", "aliases": ["Fortaleza", "Fortaleza EC"], "shield": "" },
+  { "id": "cea", "officialName": "Ceará", "shortName": "Ceará", "slug": "ceara", "aliases": ["Ceará", "Ceará SC"], "shield": "" },
+  { "id": "spo", "officialName": "Sport", "shortName": "Sport", "slug": "sport", "aliases": ["Sport", "Sport Recife", "SCR"], "shield": "" },
+  { "id": "juv", "officialName": "Juventude", "shortName": "Juventude", "slug": "juventude", "aliases": ["Juventude", "EC Juventude"], "shield": "" },
+  { "id": "vit", "officialName": "Vitória", "shortName": "Vitória", "slug": "vitoria", "aliases": ["Vitória", "EC Vitória"], "shield": "" }
+]

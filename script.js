@@ -1,3 +1,10 @@
+// ======================================================
+//  FUTEBA-DATA-BR — SCRIPT COMPLETO (ATUALIZADO)
+//  Com integração total ao normalizeTeam.js
+// ======================================================
+
+import { normalizeTeam } from "./normalizeTeam.js";
+
 document.getElementById("btn-carregar").addEventListener("click", carregarDados);
 document.getElementById("btn-simular").addEventListener("click", simularCampeonato);
 document.getElementById("btn-darkmode").addEventListener("click", alternarDarkMode);
@@ -17,7 +24,7 @@ let temaAtual = localStorage.getItem("tema") || "claro";
 
 /* ======================================================
    APLICAR TEMA AO CARREGAR A PÁGINA
-   ====================================================== */
+====================================================== */
 if (temaAtual === "escuro") {
     document.body.classList.add("dark");
     document.getElementById("btn-darkmode").textContent = "☀️ Modo Claro";
@@ -25,7 +32,7 @@ if (temaAtual === "escuro") {
 
 /* ======================================================
    CARREGAR DADOS
-   ====================================================== */
+====================================================== */
 async function carregarDados() {
     try {
         const respTabela = await fetch("dados/campeonato.json");
@@ -33,8 +40,13 @@ async function carregarDados() {
         dadosGlobais = dados;
 
         const respJogos = await fetch("dados/jogos_restantes.json");
-        const dadosJogos = await respJogos.json();
-        jogosRestantesGlobais = dadosJogos;
+        jogosRestantesGlobais = await respJogos.json();
+
+        /* Normalizar times da tabela */
+        for (const t of dados.times) {
+            const norm = await normalizeTeam(t.nome);
+            if (norm) t.id = norm.id;
+        }
 
         /* tabela */
         let html = `
@@ -105,7 +117,7 @@ async function carregarDados() {
 
 /* ======================================================
    SIMULAR JOGO
-   ====================================================== */
+====================================================== */
 function simularJogo(a, b) {
     const fa = forcasGlobais[a];
     const fb = forcasGlobais[b];
@@ -138,14 +150,14 @@ function simularJogo(a, b) {
 
 /* ======================================================
    SIMULAR CAMPEONATO UMA VEZ
-   ====================================================== */
+====================================================== */
 function simularUmaVez() {
     const tabela = JSON.parse(JSON.stringify(dadosGlobais.times));
     const map = {};
     tabela.forEach(t => (map[t.nome] = t));
 
     jogosRestantesGlobais.rodadas.forEach(r => {
-        r.jogos.forEach(j => {
+        r.jogos.forEach(async j => {
             const res = simularJogo(j.mandante, j.visitante);
             if (res === "A") map[j.mandante].pontos += 3;
             else if (res === "B") map[j.visitante].pontos += 3;
@@ -162,7 +174,7 @@ function simularUmaVez() {
 
 /* ======================================================
    SIMULAR N VEZES
-   ====================================================== */
+====================================================== */
 function simularVariasVezes(n) {
     const cont = {};
     dadosGlobais.times.forEach(t => {
@@ -186,8 +198,8 @@ function simularVariasVezes(n) {
 }
 
 /* ======================================================
-   GRÁFICO COM TEMA E FAVORITO
-   ====================================================== */
+   GRÁFICOS
+====================================================== */
 function criarGrafico(id, labels, valores, titulo, max = 100) {
     const ctx = document.getElementById(id).getContext("2d");
 
@@ -222,7 +234,7 @@ function criarGrafico(id, labels, valores, titulo, max = 100) {
 
 /* ======================================================
    CARDS
-   ====================================================== */
+====================================================== */
 function gerarCards(res, n) {
     const cont = document.getElementById("cards-container");
     cont.innerHTML = "";
@@ -274,8 +286,8 @@ function destacarCardFavorito() {
 }
 
 /* ======================================================
-   EXPORTAR IMAGEM DO TIME FAVORITO
-   ====================================================== */
+   EXPORTAR IMAGEM
+====================================================== */
 async function exportarImagemFavorito() {
     if (!timeFavorito) {
         alert("Escolha um time favorito primeiro!");
@@ -296,11 +308,9 @@ async function exportarImagemFavorito() {
         return;
     }
 
-    // animação leve para efeito visual
     cardFav.style.transform = "scale(1.05)";
     setTimeout(() => (cardFav.style.transform = ""), 300);
 
-    // captura de tela
     const canvas = await html2canvas(cardFav, {
         backgroundColor: temaAtual === "escuro" ? "#121212" : "#ffffff",
         scale: 2
@@ -314,7 +324,7 @@ async function exportarImagemFavorito() {
 
 /* ======================================================
    DARK MODE
-   ====================================================== */
+====================================================== */
 function alternarDarkMode() {
     if (temaAtual === "claro") {
         temaAtual = "escuro";
@@ -331,8 +341,8 @@ function alternarDarkMode() {
 }
 
 /* ======================================================
-   SIMULA CAMPEONATO
-   ====================================================== */
+   SIMULAR CAMPEONATO
+====================================================== */
 function simularCampeonato() {
     if (!dadosGlobais) {
         alert("Carregue os dados primeiro!");

@@ -3,9 +3,9 @@
     {
       "rodada": 31,
       "jogos": [
-        { "mandante": "Flamengo", "visitante": "Palmeiras" },
-        { "mandante": "São Paulo", "visitante": "Flamengo" },
-        { "mandante": "Palmeiras", "visitante": "São Paulo" }
+        { "mandante": "fla", "visitante": "pal" },
+        { "mandante": "sao", "visitante": "fla" },
+        { "mandante": "pal", "visitante": "sao" }
       ]
     }
   ]
