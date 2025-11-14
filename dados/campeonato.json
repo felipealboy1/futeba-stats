@@ -1,0 +1,9 @@
+{
+  "rodada_atual": 30,
+  "rodadas_totais": 38,
+  "times": [
+    {"nome": "Flamengo", "pontos": 58, "jogos": 30, "vitorias": 17, "empates": 7, "derrotas": 6, "gols_pro": 55, "gols_contra": 28},
+    {"nome": "Palmeiras", "pontos": 56, "jogos": 30, "vitorias": 16, "empates": 8, "derrotas": 6, "gols_pro": 48, "gols_contra": 25},
+    {"nome": "São Paulo", "pontos": 44, "jogos": 30, "vitorias": 12, "empates": 8, "derrotas": 10, "gols_pro": 34, "gols_contra": 33}
+  ]
+}

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Probabilidades - Protótipo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- BOTÃO DARK MODE -->
+    <div style="text-align:right; margin-bottom:10px;">
+        <button id="btn-darkmode" style="padding:8px 14px; font-size:1rem;">
+            🌙 Modo Escuro
+        </button>
+    </div>
+
+    <h1>Probabilidades do Brasileirão (Protótipo)</h1>
+
+    <button id="btn-carregar">Carregar Dados</button>
+    <button id="btn-simular">Simular Campeonato</button>
+
+    <!-- NOVO BOTÃO PARA EXPORTAR IMAGEM -->
+    <button id="btn-exportar" style="background:#28a745;">📸 Baixar imagem do time favorito</button>
+
+    <!-- TIME FAVORITO -->
+    <div style="margin: 20px 0;">
+        <label for="time-favorito" style="font-weight:bold;">Escolha seu time favorito:</label>
+        <select id="time-favorito" style="margin-left:10px; padding:8px; font-size:1rem;">
+            <option value="">-- selecione --</option>
+        </select>
+    </div>
+
+    <h2>Resumo por Time</h2>
+    <div id="cards-container"></div>
+
+    <div id="tabela"></div>
+
+    <div id="resultado-simulacao" style="margin-top: 40px;"></div>
+
+    <!-- GRÁFICOS -->
+    <h2>Probabilidade de ser Campeão</h2>
+    <canvas id="grafico-campeao"></canvas>
+
+    <h2>Probabilidade de ficar no G6</h2>
+    <canvas id="grafico-g6"></canvas>
+
+    <h2>Probabilidade de ser Rebaixado (Z4)</h2>
+    <canvas id="grafico-z4"></canvas>
+
+    <h2>Posição Média Final</h2>
+    <canvas id="grafico-posicao"></canvas>
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- html2canvas para exportar imagem -->
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+
+    <!-- Script principal -->
+    <script src="script.js"></script>
+
+</body>
+</html>

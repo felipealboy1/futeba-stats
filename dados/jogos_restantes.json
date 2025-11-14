@@ -1,0 +1,12 @@
+{
+  "rodadas": [
+    {
+      "rodada": 31,
+      "jogos": [
+        { "mandante": "Flamengo", "visitante": "Palmeiras" },
+        { "mandante": "São Paulo", "visitante": "Flamengo" },
+        { "mandante": "Palmeiras", "visitante": "São Paulo" }
+      ]
+    }
+  ]
+}
