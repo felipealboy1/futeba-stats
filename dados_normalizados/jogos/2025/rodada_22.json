@@ -1,0 +1,272 @@
+[
+  {
+    "id": 829652,
+    "rodada": 22,
+    "data": "30/08/2025",
+    "hora": "16:00",
+    "mandante": {
+      "id": 20031,
+      "nome": "Ceará",
+      "nome_completo": "Ceará",
+      "slug": "ceará"
+    },
+    "visitante": {
+      "id": 20027,
+      "nome": "Juventude",
+      "nome_completo": "Juventude",
+      "slug": "juventude"
+    },
+    "gols_mandante": 0,
+    "gols_visitante": 1,
+    "status": "FINALIZADO",
+    "estadio": {
+      "nome": "Arena Castelão",
+      "slug": "arena-castelão",
+      "cidade": "Fortaleza",
+      "estado": "CE"
+    }
+  },
+  {
+    "id": 829638,
+    "rodada": 22,
+    "data": "30/08/2025",
+    "hora": "18:30",
+    "mandante": {
+      "id": 60175,
+      "nome": "Botafogo",
+      "nome_completo": "Botafogo",
+      "slug": "botafogo"
+    },
+    "visitante": {
+      "id": 20007,
+      "nome": "Red Bull Bragantino",
+      "nome_completo": "Red Bull Bragantino",
+      "slug": "red-bull-bragantino"
+    },
+    "gols_mandante": 4,
+    "gols_visitante": 1,
+    "status": "FINALIZADO",
+    "estadio": {
+      "nome": "Nilton Santos",
+      "slug": "nilton-santos",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ"
+    }
+  },
+  {
+    "id": 829649,
+    "rodada": 22,
+    "data": "30/08/2025",
+    "hora": "21:00",
+    "mandante": {
+      "id": 59849,
+      "nome": "Cruzeiro Saf",
+      "nome_completo": "Cruzeiro Saf",
+      "slug": "cruzeiro-saf"
+    },
+    "visitante": {
+      "id": 20005,
+      "nome": "São Paulo",
+      "nome_completo": "São Paulo",
+      "slug": "são-paulo"
+    },
+    "gols_mandante": 1,
+    "gols_visitante": 0,
+    "status": "FINALIZADO",
+    "estadio": {
+      "nome": "Mineirão",
+      "slug": "mineirão",
+      "cidade": "Belo Horizonte",
+      "estado": "MG"
+    }
+  },
+  {
+    "id": 829637,
+    "rodada": 22,
+    "data": "31/08/2025",
+    "hora": "16:00",
+    "mandante": {
+      "id": 20016,
+      "nome": "Flamengo",
+      "nome_completo": "Flamengo",
+      "slug": "flamengo"
+    },
+    "visitante": {
+      "id": 20013,
+      "nome": "Grêmio",
+      "nome_completo": "Grêmio",
+      "slug": "grêmio"
+    },
+    "gols_mandante": 1,
+    "gols_visitante": 1,
+    "status": "FINALIZADO",
+    "estadio": {
+      "nome": "Maracanã",
+      "slug": "maracanã",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ"
+    }
+  },
+  {
+    "id": 829640,
+    "rodada": 22,
+    "data": "31/08/2025",
+    "hora": "16:00",
+    "mandante": {
+      "id": 20008,
+      "nome": "Santos Fc",
+      "nome_completo": "Santos Fc",
+      "slug": "santos-fc"
+    },
+    "visitante": {
+      "id": 20014,
+      "nome": "Fluminense",
+      "nome_completo": "Fluminense",
+      "slug": "fluminense"
+    },
+    "gols_mandante": 0,
+    "gols_visitante": 0,
+    "status": "FINALIZADO",
+    "estadio": {
+      "nome": "Vila Belmiro",
+      "slug": "vila-belmiro",
+      "cidade": "Santos",
+      "estado": "SP"
+    }
+  },
+  {
+    "id": 829641,
+    "rodada": 22,
+    "data": "31/08/2025",
+    "hora": "18:30",
+    "mandante": {
+      "id": 20385,
+      "nome": "Mirassol",
+      "nome_completo": "Mirassol",
+      "slug": "mirassol"
+    },
+    "visitante": {
+      "id": 61377,
+      "nome": "Bahia",
+      "nome_completo": "Bahia",
+      "slug": "bahia"
+    },
+    "gols_mandante": 5,
+    "gols_visitante": 1,
+    "status": "FINALIZADO",
+    "estadio": {
+      "nome": "José Maria de Campos Maia",
+      "slug": "josé-maria-de-campos-maia",
+      "cidade": "Mirassol",
+      "estado": "SP"
+    }
+  },
+  {
+    "id": 829639,
+    "rodada": 22,
+    "data": "31/08/2025",
+    "hora": "18:30",
+    "mandante": {
+      "id": 20001,
+      "nome": "Corinthians",
+      "nome_completo": "Corinthians",
+      "slug": "corinthians"
+    },
+    "visitante": {
+      "id": 20002,
+      "nome": "Palmeiras",
+      "nome_completo": "Palmeiras",
+      "slug": "palmeiras"
+    },
+    "gols_mandante": 1,
+    "gols_visitante": 1,
+    "status": "FINALIZADO",
+    "estadio": {
+      "nome": "Neo Química Arena",
+      "slug": "neo-química-arena",
+      "cidade": "Sao Paulo",
+      "estado": "SP"
+    }
+  },
+  {
+    "id": 829651,
+    "rodada": 22,
+    "data": "31/08/2025",
+    "hora": "18:30",
+    "mandante": {
+      "id": 20018,
+      "nome": "Vitória",
+      "nome_completo": "Vitória",
+      "slug": "vitória"
+    },
+    "visitante": {
+      "id": 62194,
+      "nome": "Atlético Mineiro Saf",
+      "nome_completo": "Atlético Mineiro Saf",
+      "slug": "atlético-mineiro-saf"
+    },
+    "gols_mandante": 1,
+    "gols_visitante": 0,
+    "status": "FINALIZADO",
+    "estadio": {
+      "nome": "Manoel Barradas",
+      "slug": "manoel-barradas",
+      "cidade": "Salvador",
+      "estado": "BA"
+    }
+  },
+  {
+    "id": 829650,
+    "rodada": 22,
+    "data": "31/08/2025",
+    "hora": "20:30",
+    "mandante": {
+      "id": 20011,
+      "nome": "Internacional",
+      "nome_completo": "Internacional",
+      "slug": "internacional"
+    },
+    "visitante": {
+      "id": 63238,
+      "nome": "Fortaleza Ec Saf",
+      "nome_completo": "Fortaleza Ec Saf",
+      "slug": "fortaleza-ec-saf"
+    },
+    "gols_mandante": 2,
+    "gols_visitante": 1,
+    "status": "FINALIZADO",
+    "estadio": {
+      "nome": "Beira-Rio",
+      "slug": "beira-rio",
+      "cidade": "Porto Alegre",
+      "estado": "RS"
+    }
+  },
+  {
+    "id": 829653,
+    "rodada": 22,
+    "data": "31/08/2025",
+    "hora": "20:30",
+    "mandante": {
+      "id": 20010,
+      "nome": "Sport Recife",
+      "nome_completo": "Sport Recife",
+      "slug": "sport-recife"
+    },
+    "visitante": {
+      "id": 60646,
+      "nome": "Vasco da Gama S.a.f.",
+      "nome_completo": "Vasco da Gama S.a.f.",
+      "slug": "vasco-da-gama-s.a.f."
+    },
+    "gols_mandante": 2,
+    "gols_visitante": 3,
+    "status": "FINALIZADO",
+    "estadio": {
+      "nome": "Ilha do Retiro",
+      "slug": "ilha-do-retiro",
+      "cidade": "Recife",
+      "estado": "PE"
+    }
+  }
+]

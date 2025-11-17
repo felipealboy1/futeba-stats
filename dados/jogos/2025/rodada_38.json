@@ -1,0 +1,322 @@
+[
+  {
+    "id_jogo": "829872",
+    "num_jogo": "371",
+    "rodada": "38",
+    "grupo": "GRUPO ÚNICO",
+    "mandante": {
+      "id": "20014",
+      "nome": "Fluminense",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/20014/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "visitante": {
+      "id": "61377",
+      "nome": "Bahia",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/61377/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "local": " -  - ",
+    "campeonato": "Campeonato Brasileiro",
+    "data": "A Definir",
+    "hora": "",
+    "qtd_alteracoes_jogo": 0,
+    "documentos": [],
+    "arbitros": [],
+    "penalidades": []
+  },
+  {
+    "id_jogo": "829873",
+    "num_jogo": "372",
+    "rodada": "38",
+    "grupo": "GRUPO ÚNICO",
+    "mandante": {
+      "id": "60175",
+      "nome": "Botafogo",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/60175/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "visitante": {
+      "id": "63238",
+      "nome": "Fortaleza Ec Saf",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/63238/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "local": " -  - ",
+    "campeonato": "Campeonato Brasileiro",
+    "data": "A Definir",
+    "hora": "",
+    "qtd_alteracoes_jogo": 0,
+    "documentos": [],
+    "arbitros": [],
+    "penalidades": []
+  },
+  {
+    "id_jogo": "829874",
+    "num_jogo": "373",
+    "rodada": "38",
+    "grupo": "GRUPO ÚNICO",
+    "mandante": {
+      "id": "20001",
+      "nome": "Corinthians",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/20001/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "visitante": {
+      "id": "20027",
+      "nome": "Juventude",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/20027/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "local": " -  - ",
+    "campeonato": "Campeonato Brasileiro",
+    "data": "A Definir",
+    "hora": "",
+    "qtd_alteracoes_jogo": 0,
+    "documentos": [],
+    "arbitros": [],
+    "penalidades": []
+  },
+  {
+    "id_jogo": "829875",
+    "num_jogo": "374",
+    "rodada": "38",
+    "grupo": "GRUPO ÚNICO",
+    "mandante": {
+      "id": "20008",
+      "nome": "Santos Fc",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/20008/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "visitante": {
+      "id": "59849",
+      "nome": "Cruzeiro Saf",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/59849/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "local": " -  - ",
+    "campeonato": "Campeonato Brasileiro",
+    "data": "A Definir",
+    "hora": "",
+    "qtd_alteracoes_jogo": 0,
+    "documentos": [],
+    "arbitros": [],
+    "penalidades": []
+  },
+  {
+    "id_jogo": "829876",
+    "num_jogo": "375",
+    "rodada": "38",
+    "grupo": "GRUPO ÚNICO",
+    "mandante": {
+      "id": "20385",
+      "nome": "Mirassol",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/20385/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "visitante": {
+      "id": "20016",
+      "nome": "Flamengo",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/20016/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "local": " -  - ",
+    "campeonato": "Campeonato Brasileiro",
+    "data": "A Definir",
+    "hora": "",
+    "qtd_alteracoes_jogo": 0,
+    "documentos": [],
+    "arbitros": [],
+    "penalidades": []
+  },
+  {
+    "id_jogo": "829877",
+    "num_jogo": "376",
+    "rodada": "38",
+    "grupo": "GRUPO ÚNICO",
+    "mandante": {
+      "id": "62194",
+      "nome": "Atlético Mineiro Saf",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/62194/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "visitante": {
+      "id": "60646",
+      "nome": "Vasco da Gama S.a.f.",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/60646/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "local": " -  - ",
+    "campeonato": "Campeonato Brasileiro",
+    "data": "A Definir",
+    "hora": "",
+    "qtd_alteracoes_jogo": 0,
+    "documentos": [],
+    "arbitros": [],
+    "penalidades": []
+  },
+  {
+    "id_jogo": "829878",
+    "num_jogo": "377",
+    "rodada": "38",
+    "grupo": "GRUPO ÚNICO",
+    "mandante": {
+      "id": "20011",
+      "nome": "Internacional",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/20011/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "visitante": {
+      "id": "20007",
+      "nome": "Red Bull Bragantino",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/20007/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "local": " -  - ",
+    "campeonato": "Campeonato Brasileiro",
+    "data": "A Definir",
+    "hora": "",
+    "qtd_alteracoes_jogo": 0,
+    "documentos": [],
+    "arbitros": [],
+    "penalidades": []
+  },
+  {
+    "id_jogo": "829879",
+    "num_jogo": "378",
+    "rodada": "38",
+    "grupo": "GRUPO ÚNICO",
+    "mandante": {
+      "id": "20018",
+      "nome": "Vitória",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/20018/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "visitante": {
+      "id": "20005",
+      "nome": "São Paulo",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/20005/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "local": " -  - ",
+    "campeonato": "Campeonato Brasileiro",
+    "data": "A Definir",
+    "hora": "",
+    "qtd_alteracoes_jogo": 0,
+    "documentos": [],
+    "arbitros": [],
+    "penalidades": []
+  },
+  {
+    "id_jogo": "829880",
+    "num_jogo": "379",
+    "rodada": "38",
+    "grupo": "GRUPO ÚNICO",
+    "mandante": {
+      "id": "20031",
+      "nome": "Ceará",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/20031/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "visitante": {
+      "id": "20002",
+      "nome": "Palmeiras",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/20002/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "local": " -  - ",
+    "campeonato": "Campeonato Brasileiro",
+    "data": "A Definir",
+    "hora": "",
+    "qtd_alteracoes_jogo": 0,
+    "documentos": [],
+    "arbitros": [],
+    "penalidades": []
+  },
+  {
+    "id_jogo": "829881",
+    "num_jogo": "380",
+    "rodada": "38",
+    "grupo": "GRUPO ÚNICO",
+    "mandante": {
+      "id": "20010",
+      "nome": "Sport Recife",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/20010/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "visitante": {
+      "id": "20013",
+      "nome": "Grêmio",
+      "url_escudo": "https://conteudo.cbf.com.br/clubes/20013/escudo.jpg",
+      "gols": null,
+      "panaltis": "0",
+      "atletas": [],
+      "alteracoes": []
+    },
+    "local": " -  - ",
+    "campeonato": "Campeonato Brasileiro",
+    "data": "A Definir",
+    "hora": "",
+    "qtd_alteracoes_jogo": 0,
+    "documentos": [],
+    "arbitros": [],
+    "penalidades": []
+  }
+]

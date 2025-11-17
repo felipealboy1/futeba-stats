@@ -1,6 +1,34 @@
 {
+  "name": "futeba-data-br",
+  "type": "module",
+  "scripts": {
+    "start": "node services/api.js",
+
+    "api": "node services/api.js",
+
+    "scrape:jogos": "node scrapers/scraperJogos.js",
+    "scrape:rodadas": "node scrapers/scraperRodadas.js",
+    "scrape:todas": "node scrapers/scraperTodasRodadas.js",
+
+    "normalize:rodada": "node scripts/normalizarCli.js --ano=2025 --rodada=1",
+    "normalize:todas": "node scripts/normalizarCli.js --ano=2025 --todas",
+    "normalize:classificacao": "node scripts/normalizarCli.js --classificacao --ano=2025 --todas",
+    "normalize:times": "node scripts/normalizarCli.js --type=times",
+
+    "atualizar": "node scripts/pipeline.js",
+
+    "precalc:probs": "node scripts/precalcProbs.js --ano=2025",
+    "rebuild:projecao": "node scripts/rebuildProjecao.js",
+
+    "admin:rebuild": "curl -X POST \"http://localhost:3001/admin/rebuild?token=MEU_TOKEN_SUPER_SECRETO\"",
+
+    "simulate:cache": "node -e \"require('./models/simulacao.js').simulateSeason({ano:'2025', nSim:10000}).then(r=>console.log('ok'))\""
+  },
   "dependencies": {
-    "axios": "^1.13.2",
-    "cheerio": "^1.1.2"
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2",
+    "react-router-dom": "^7.9.6"
   }
 }
