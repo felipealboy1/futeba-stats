@@ -1,10 +1,6 @@
 // frontend/src/services/api.js
 
-const API =
-  import.meta.env.MODE === "development"
-    ? "http://localhost:3001"
-    : "https://futeba-stats.onrender.com";
-
+const API = import.meta.env.VITE_API_URL || "https://futeba-stats.onrender.com";
 
 export async function getTimes() {
   const res = await fetch(`${API}/times`);

@@ -1047,7 +1047,85 @@
     "hora": "19:30",
     "qtd_alteracoes_jogo": 0,
     "documentos": null,
-    "arbitros": [],
+    "arbitros": [
+      {
+        "id": "14651",
+        "nome": "Lucas Paulo Torezin",
+        "funcao": "Arbitro",
+        "uf": "PR",
+        "categoria": "AB"
+      },
+      {
+        "id": "206",
+        "nome": "Guilherme Dias Camilo",
+        "funcao": "Arbitro Assistente 1",
+        "uf": "MG",
+        "categoria": "FIFA"
+      },
+      {
+        "id": "1310",
+        "nome": "Thiaggo Americano Labes",
+        "funcao": "Arbitro Assistente 2",
+        "uf": "SC",
+        "categoria": "AB"
+      },
+      {
+        "id": "1301",
+        "nome": "Paulo Roberto Alves Junior",
+        "funcao": "Quarto Arbitro",
+        "uf": "PR",
+        "categoria": "AB"
+      },
+      {
+        "id": "441",
+        "nome": "Luiz Carlos Camara Bezerra",
+        "funcao": "Inspetor",
+        "uf": "BR",
+        "categoria": "CBF"
+      },
+      {
+        "id": "318",
+        "nome": "Ubirajara Ferraz Jota",
+        "funcao": "Assessor",
+        "uf": "PE",
+        "categoria": "CBF"
+      },
+      {
+        "id": "1299",
+        "nome": "Rodolpho Toski Marques",
+        "funcao": "VAR",
+        "uf": "PR",
+        "categoria": "VAR-FIFA"
+      },
+      {
+        "id": "1080",
+        "nome": "Clovis Amaral da Silva",
+        "funcao": "AVAR",
+        "uf": "PE",
+        "categoria": "AB"
+      },
+      {
+        "id": "2395",
+        "nome": "Rafael Traci",
+        "funcao": "AVAR2",
+        "uf": "SC",
+        "categoria": "MASTER"
+      },
+      {
+        "id": "949",
+        "nome": "Italo Medeiros de Azevedo",
+        "funcao": "Observador de VAR",
+        "uf": "BR",
+        "categoria": "AB"
+      },
+      {
+        "id": "503",
+        "nome": "Claudemir Maffessoni",
+        "funcao": "Quality manager",
+        "uf": "SC",
+        "categoria": "CBF"
+      }
+    ],
     "penalidades": []
   }
 ]

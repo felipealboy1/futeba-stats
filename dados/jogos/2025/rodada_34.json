@@ -202,7 +202,85 @@
     "hora": "21:30",
     "qtd_alteracoes_jogo": 0,
     "documentos": null,
-    "arbitros": [],
+    "arbitros": [
+      {
+        "id": "17017",
+        "nome": "Davi De Oliveira Lacerda",
+        "funcao": "Arbitro",
+        "uf": "ES",
+        "categoria": "AB"
+      },
+      {
+        "id": "1073",
+        "nome": "Rodrigo Figueiredo Henrique Correa",
+        "funcao": "Arbitro Assistente 1",
+        "uf": "RJ",
+        "categoria": "FIFA"
+      },
+      {
+        "id": "17065",
+        "nome": "Douglas Pagung",
+        "funcao": "Arbitro Assistente 2",
+        "uf": "ES",
+        "categoria": "AB"
+      },
+      {
+        "id": "14912",
+        "nome": "Jefferson Ferreira de Moraes",
+        "funcao": "Quarto Arbitro",
+        "uf": "GO",
+        "categoria": "AB"
+      },
+      {
+        "id": "567",
+        "nome": "Marcelo Carvalho Van Gasse",
+        "funcao": "Inspetor",
+        "uf": "BR",
+        "categoria": "CBF"
+      },
+      {
+        "id": "510",
+        "nome": "Kleber Lucio Gil",
+        "funcao": "Assessor",
+        "uf": "SC",
+        "categoria": "CBF"
+      },
+      {
+        "id": "781",
+        "nome": "Wagner Reway",
+        "funcao": "VAR",
+        "uf": "SC",
+        "categoria": "VAR-FIFA"
+      },
+      {
+        "id": "596",
+        "nome": "Cleriston Clay Barreto Rios",
+        "funcao": "AVAR",
+        "uf": "SE",
+        "categoria": "MASTER"
+      },
+      {
+        "id": "16164",
+        "nome": "Felipe Fernandes de Lima",
+        "funcao": "AVAR2",
+        "uf": "MG",
+        "categoria": "AB"
+      },
+      {
+        "id": "685",
+        "nome": "Claudio Jose de Oliveira Soares",
+        "funcao": "Observador de VAR",
+        "uf": "BR",
+        "categoria": "CBF"
+      },
+      {
+        "id": "19478",
+        "nome": "Mikael Silva de Araujo",
+        "funcao": "Quality manager",
+        "uf": "BR",
+        "categoria": "CBF"
+      }
+    ],
     "penalidades": []
   },
   {
@@ -234,7 +312,85 @@
     "hora": "21:30",
     "qtd_alteracoes_jogo": 0,
     "documentos": null,
-    "arbitros": [],
+    "arbitros": [
+      {
+        "id": "19842",
+        "nome": "Matheus Delgado Candançan",
+        "funcao": "Arbitro",
+        "uf": "SP",
+        "categoria": "FIFA"
+      },
+      {
+        "id": "14563",
+        "nome": "Alex Ang Ribeiro",
+        "funcao": "Arbitro Assistente 1",
+        "uf": "SP",
+        "categoria": "FIFA"
+      },
+      {
+        "id": "14568",
+        "nome": "Thiago Henrique Neto Correa Farinha",
+        "funcao": "Arbitro Assistente 2",
+        "uf": "RJ",
+        "categoria": "MASTER"
+      },
+      {
+        "id": "14653",
+        "nome": "Jose Mendonca da Silva Junior",
+        "funcao": "Quarto Arbitro",
+        "uf": "PR",
+        "categoria": "CD"
+      },
+      {
+        "id": "1191",
+        "nome": "Antonio Pereira da Silva",
+        "funcao": "Inspetor",
+        "uf": "GO",
+        "categoria": "CBF"
+      },
+      {
+        "id": "550",
+        "nome": "Carlos Augusto Nogueira Junior",
+        "funcao": "Assessor",
+        "uf": "SP",
+        "categoria": "CBF"
+      },
+      {
+        "id": "1300",
+        "nome": "Rodrigo D Alonso Ferreira",
+        "funcao": "VAR",
+        "uf": "SC",
+        "categoria": "AB"
+      },
+      {
+        "id": "14702",
+        "nome": "Johnny Barros de Oliveira",
+        "funcao": "AVAR",
+        "uf": "SC",
+        "categoria": "AB"
+      },
+      {
+        "id": "16181",
+        "nome": "Ramon Abatti Abel",
+        "funcao": "AVAR2",
+        "uf": "SC",
+        "categoria": "FIFA"
+      },
+      {
+        "id": "788",
+        "nome": "Pericles Bassols Pegado Cortez",
+        "funcao": "Observador de VAR",
+        "uf": "BR",
+        "categoria": "CBF"
+      },
+      {
+        "id": "20251",
+        "nome": "Douglas Perrone Katayama",
+        "funcao": "Quality manager",
+        "uf": "SP",
+        "categoria": "CBF"
+      }
+    ],
     "penalidades": []
   },
   {
@@ -266,7 +422,85 @@
     "hora": "21:30",
     "qtd_alteracoes_jogo": 0,
     "documentos": null,
-    "arbitros": [],
+    "arbitros": [
+      {
+        "id": "1048",
+        "nome": "Raphael Claus",
+        "funcao": "Arbitro",
+        "uf": "SP",
+        "categoria": "FIFA"
+      },
+      {
+        "id": "703",
+        "nome": "Danilo Ricardo Simon Manis",
+        "funcao": "Arbitro Assistente 1",
+        "uf": "SP",
+        "categoria": "FIFA"
+      },
+      {
+        "id": "14716",
+        "nome": "Felipe Alan Costa de Oliveira",
+        "funcao": "Arbitro Assistente 2",
+        "uf": "MG",
+        "categoria": "AB"
+      },
+      {
+        "id": "19135",
+        "nome": "Afro Rocha de Carvalho Filho",
+        "funcao": "Quarto Arbitro",
+        "uf": "PB",
+        "categoria": "AB"
+      },
+      {
+        "id": "210",
+        "nome": "Marcio Eustaquio Sousa Santiago",
+        "funcao": "Inspetor",
+        "uf": "MG",
+        "categoria": "CBF"
+      },
+      {
+        "id": "603",
+        "nome": "Adriano de Carvalho",
+        "funcao": "Assessor",
+        "uf": "TO",
+        "categoria": "CBF"
+      },
+      {
+        "id": "1316",
+        "nome": "Caio Max Augusto Vieira",
+        "funcao": "VAR",
+        "uf": "GO",
+        "categoria": "AB"
+      },
+      {
+        "id": "561",
+        "nome": "Herman Brumel Vani",
+        "funcao": "AVAR",
+        "uf": "SP",
+        "categoria": "AB"
+      },
+      {
+        "id": "542",
+        "nome": "Rodrigo Guarizo Ferreira do Amaral",
+        "funcao": "AVAR2",
+        "uf": "SP",
+        "categoria": "VAR-FIFA"
+      },
+      {
+        "id": "625",
+        "nome": "Alicio Pena Junior",
+        "funcao": "Observador de VAR",
+        "uf": "BR",
+        "categoria": "CBF"
+      },
+      {
+        "id": "19479",
+        "nome": "Nayara Pereira dos Santos",
+        "funcao": "Quality manager",
+        "uf": "BR",
+        "categoria": "CBF"
+      }
+    ],
     "penalidades": []
   },
   {
@@ -298,7 +532,85 @@
     "hora": "16:00",
     "qtd_alteracoes_jogo": 0,
     "documentos": null,
-    "arbitros": [],
+    "arbitros": [
+      {
+        "id": "14596",
+        "nome": "Savio Pereira Sampaio",
+        "funcao": "Arbitro",
+        "uf": "DF",
+        "categoria": "MASTER"
+      },
+      {
+        "id": "14734",
+        "nome": "Leila Naiara Moreira da Cruz",
+        "funcao": "Arbitro Assistente 1",
+        "uf": "DF",
+        "categoria": "FIFA"
+      },
+      {
+        "id": "1306",
+        "nome": "Leone Carvalho Rocha",
+        "funcao": "Arbitro Assistente 2",
+        "uf": "GO",
+        "categoria": "AB"
+      },
+      {
+        "id": "17100",
+        "nome": "Luciano da Silva Miranda Filho",
+        "funcao": "Quarto Arbitro",
+        "uf": "CE",
+        "categoria": "AB"
+      },
+      {
+        "id": "120",
+        "nome": "Marrubson Melo Freitas",
+        "funcao": "Inspetor",
+        "uf": "DF",
+        "categoria": "CBF"
+      },
+      {
+        "id": "1296",
+        "nome": "Anderson Carlos Goncalves",
+        "funcao": "Assessor",
+        "uf": "PR",
+        "categoria": "CBF"
+      },
+      {
+        "id": "1128",
+        "nome": "Pablo Ramon Goncalves Pinheiro",
+        "funcao": "VAR",
+        "uf": "RN",
+        "categoria": "VAR-FIFA"
+      },
+      {
+        "id": "951",
+        "nome": "Flavio Gomes Barroca",
+        "funcao": "AVAR",
+        "uf": "RN",
+        "categoria": "AB"
+      },
+      {
+        "id": "1039",
+        "nome": "Gilberto Rodrigues Castro Junior",
+        "funcao": "AVAR2",
+        "uf": "PE",
+        "categoria": "AB"
+      },
+      {
+        "id": "913",
+        "nome": "Rodrigo Pereira Joia",
+        "funcao": "Observador de VAR",
+        "uf": "BR",
+        "categoria": "CBF"
+      },
+      {
+        "id": "20827",
+        "nome": "Larissa Ramos Monteiro",
+        "funcao": "Quality manager",
+        "uf": "BR",
+        "categoria": "CBF"
+      }
+    ],
     "penalidades": []
   },
   {
@@ -330,7 +642,85 @@
     "hora": "18:00",
     "qtd_alteracoes_jogo": 0,
     "documentos": null,
-    "arbitros": [],
+    "arbitros": [
+      {
+        "id": "19840",
+        "nome": "Rafael Rodrigo Klein",
+        "funcao": "Arbitro",
+        "uf": "RS",
+        "categoria": "FIFA"
+      },
+      {
+        "id": "670",
+        "nome": "Bruno Boschilia",
+        "funcao": "Arbitro Assistente 1",
+        "uf": "PR",
+        "categoria": "FIFA"
+      },
+      {
+        "id": "14916",
+        "nome": "Michael Stanislau",
+        "funcao": "Arbitro Assistente 2",
+        "uf": "RS",
+        "categoria": "AB"
+      },
+      {
+        "id": "19449",
+        "nome": "Andre Luiz Skettino Policarpo Bento",
+        "funcao": "Quarto Arbitro",
+        "uf": "MG",
+        "categoria": "AB"
+      },
+      {
+        "id": "310",
+        "nome": "Erich Bartolomeu Antas E Silva Bandeira",
+        "funcao": "Inspetor",
+        "uf": "PE",
+        "categoria": "CBF"
+      },
+      {
+        "id": "1224",
+        "nome": "Sergio Cristiano Nascimento",
+        "funcao": "Assessor",
+        "uf": "RJ",
+        "categoria": "CBF"
+      },
+      {
+        "id": "14582",
+        "nome": "Daniel Nobre Bins",
+        "funcao": "VAR",
+        "uf": "RS",
+        "categoria": "VAR-FIFA"
+      },
+      {
+        "id": "14919",
+        "nome": "Andre da Silva Bitencourt",
+        "funcao": "AVAR",
+        "uf": "RS",
+        "categoria": "AB"
+      },
+      {
+        "id": "1100",
+        "nome": "Flavio Rodrigues de Souza",
+        "funcao": "AVAR2",
+        "uf": "SP",
+        "categoria": "FIFA"
+      },
+      {
+        "id": "814",
+        "nome": "Regildenia de Holanda Moura",
+        "funcao": "Observador de VAR",
+        "uf": "BR",
+        "categoria": "CBF"
+      },
+      {
+        "id": "294",
+        "nome": "Carlos Henrique Tosta",
+        "funcao": "Quality manager",
+        "uf": "MG",
+        "categoria": "CBF"
+      }
+    ],
     "penalidades": []
   },
   {
@@ -362,7 +752,85 @@
     "hora": "19:30",
     "qtd_alteracoes_jogo": 0,
     "documentos": null,
-    "arbitros": [],
+    "arbitros": [
+      {
+        "id": "866",
+        "nome": "Anderson Daronco",
+        "funcao": "Arbitro",
+        "uf": "RS",
+        "categoria": "FIFA"
+      },
+      {
+        "id": "1096",
+        "nome": "Rafael da Silva Alves",
+        "funcao": "Arbitro Assistente 1",
+        "uf": "RS",
+        "categoria": "FIFA"
+      },
+      {
+        "id": "16212",
+        "nome": "Maira Mastella Moreira",
+        "funcao": "Arbitro Assistente 2",
+        "uf": "RS",
+        "categoria": "FIFA"
+      },
+      {
+        "id": "18855",
+        "nome": "Fernando Antonio Mendes de Salles Nascimento Filho",
+        "funcao": "Quarto Arbitro",
+        "uf": "PA",
+        "categoria": "AB"
+      },
+      {
+        "id": "1202",
+        "nome": "Jose Mocellin",
+        "funcao": "Inspetor",
+        "uf": "RS",
+        "categoria": "CBF"
+      },
+      {
+        "id": "650",
+        "nome": "Cleidy Mary dos Santos Nunes Ribeiro",
+        "funcao": "Assessor",
+        "uf": "SC",
+        "categoria": "CBF"
+      },
+      {
+        "id": "14954",
+        "nome": "Marco Aurelio Augusto Fazekas Ferreira",
+        "funcao": "VAR",
+        "uf": "MG",
+        "categoria": "VAR-FIFA"
+      },
+      {
+        "id": "1122",
+        "nome": "Helen Aparecida Goncalves Silva Araujo",
+        "funcao": "AVAR",
+        "uf": "MG",
+        "categoria": "AB"
+      },
+      {
+        "id": "883",
+        "nome": "Rodrigo Nunes de Sa",
+        "funcao": "AVAR2",
+        "uf": "RJ",
+        "categoria": "VAR-FIFA"
+      },
+      {
+        "id": "775",
+        "nome": "Marcos Andre Gomes da Penha",
+        "funcao": "Observador de VAR",
+        "uf": "ES",
+        "categoria": "CBF"
+      },
+      {
+        "id": "19547",
+        "nome": "Bernardo Campos Martins",
+        "funcao": "Quality manager",
+        "uf": "RJ",
+        "categoria": "CBF"
+      }
+    ],
     "penalidades": []
   },
   {
@@ -394,7 +862,85 @@
     "hora": "21:30",
     "qtd_alteracoes_jogo": 0,
     "documentos": null,
-    "arbitros": [],
+    "arbitros": [
+      {
+        "id": "16458",
+        "nome": "Rodrigo Jose Pereira de Lima",
+        "funcao": "Arbitro",
+        "uf": "PE",
+        "categoria": "FIFA"
+      },
+      {
+        "id": "14600",
+        "nome": "Victor Hugo Imazu dos Santos",
+        "funcao": "Arbitro Assistente 1",
+        "uf": "PR",
+        "categoria": "FIFA"
+      },
+      {
+        "id": "1312",
+        "nome": "Francisco Chaves Bezerra Junior",
+        "funcao": "Arbitro Assistente 2",
+        "uf": "PE",
+        "categoria": "AB"
+      },
+      {
+        "id": "19458",
+        "nome": "Yuri Elino Ferreira da Cruz",
+        "funcao": "Quarto Arbitro",
+        "uf": "RJ",
+        "categoria": "AB"
+      },
+      {
+        "id": "1273",
+        "nome": "Raimundo Nonato Lopo De Abreu",
+        "funcao": "Inspetor",
+        "uf": "DF",
+        "categoria": "CBF"
+      },
+      {
+        "id": "222",
+        "nome": "Janette Mara Arcanjo",
+        "funcao": "Assessor",
+        "uf": "MG",
+        "categoria": "CBF"
+      },
+      {
+        "id": "962",
+        "nome": "Diego Pombo Lopez",
+        "funcao": "VAR",
+        "uf": "BA",
+        "categoria": "VAR-FIFA"
+      },
+      {
+        "id": "1337",
+        "nome": "Diogo Carvalho Silva",
+        "funcao": "AVAR",
+        "uf": "RJ",
+        "categoria": "AB"
+      },
+      {
+        "id": "20746",
+        "nome": "Lucas Casagrande",
+        "funcao": "AVAR2",
+        "uf": "PR",
+        "categoria": "AB"
+      },
+      {
+        "id": "376",
+        "nome": "Jose Alexandre Barbosa Lima",
+        "funcao": "Observador de VAR",
+        "uf": "RJ",
+        "categoria": "CBF"
+      },
+      {
+        "id": "20637",
+        "nome": "Maria Victoria Benetti Vargas",
+        "funcao": "Quality manager",
+        "uf": "BR",
+        "categoria": "AB"
+      }
+    ],
     "penalidades": []
   }
 ]
