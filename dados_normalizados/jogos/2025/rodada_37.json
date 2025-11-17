@@ -1,0 +1,272 @@
+[
+  {
+    "id": 829862,
+    "rodada": 37,
+    "data": "ADefinir",
+    "hora": null,
+    "mandante": {
+      "id": 20016,
+      "nome": "Flamengo",
+      "nome_completo": "Flamengo",
+      "slug": "flamengo"
+    },
+    "visitante": {
+      "id": 20031,
+      "nome": "Ceará",
+      "nome_completo": "Ceará",
+      "slug": "ceará"
+    },
+    "gols_mandante": 0,
+    "gols_visitante": 0,
+    "status": "PENDENTE",
+    "estadio": {
+      "nome": null,
+      "slug": null,
+      "cidade": null,
+      "estado": null
+    }
+  },
+  {
+    "id": 829863,
+    "rodada": 37,
+    "data": "ADefinir",
+    "hora": null,
+    "mandante": {
+      "id": 60646,
+      "nome": "Vasco da Gama S.a.f.",
+      "nome_completo": "Vasco da Gama S.a.f.",
+      "slug": "vasco-da-gama-s.a.f."
+    },
+    "visitante": {
+      "id": 20385,
+      "nome": "Mirassol",
+      "nome_completo": "Mirassol",
+      "slug": "mirassol"
+    },
+    "gols_mandante": 0,
+    "gols_visitante": 0,
+    "status": "PENDENTE",
+    "estadio": {
+      "nome": null,
+      "slug": null,
+      "cidade": null,
+      "estado": null
+    }
+  },
+  {
+    "id": 829865,
+    "rodada": 37,
+    "data": "ADefinir",
+    "hora": null,
+    "mandante": {
+      "id": 20005,
+      "nome": "São Paulo",
+      "nome_completo": "São Paulo",
+      "slug": "são-paulo"
+    },
+    "visitante": {
+      "id": 20011,
+      "nome": "Internacional",
+      "nome_completo": "Internacional",
+      "slug": "internacional"
+    },
+    "gols_mandante": 0,
+    "gols_visitante": 0,
+    "status": "PENDENTE",
+    "estadio": {
+      "nome": null,
+      "slug": null,
+      "cidade": null,
+      "estado": null
+    }
+  },
+  {
+    "id": 829867,
+    "rodada": 37,
+    "data": "ADefinir",
+    "hora": null,
+    "mandante": {
+      "id": 59849,
+      "nome": "Cruzeiro Saf",
+      "nome_completo": "Cruzeiro Saf",
+      "slug": "cruzeiro-saf"
+    },
+    "visitante": {
+      "id": 60175,
+      "nome": "Botafogo",
+      "nome_completo": "Botafogo",
+      "slug": "botafogo"
+    },
+    "gols_mandante": 0,
+    "gols_visitante": 0,
+    "status": "PENDENTE",
+    "estadio": {
+      "nome": null,
+      "slug": null,
+      "cidade": null,
+      "estado": null
+    }
+  },
+  {
+    "id": 829868,
+    "rodada": 37,
+    "data": "ADefinir",
+    "hora": null,
+    "mandante": {
+      "id": 20013,
+      "nome": "Grêmio",
+      "nome_completo": "Grêmio",
+      "slug": "grêmio"
+    },
+    "visitante": {
+      "id": 20014,
+      "nome": "Fluminense",
+      "nome_completo": "Fluminense",
+      "slug": "fluminense"
+    },
+    "gols_mandante": 0,
+    "gols_visitante": 0,
+    "status": "PENDENTE",
+    "estadio": {
+      "nome": null,
+      "slug": null,
+      "cidade": null,
+      "estado": null
+    }
+  },
+  {
+    "id": 829869,
+    "rodada": 37,
+    "data": "ADefinir",
+    "hora": null,
+    "mandante": {
+      "id": 61377,
+      "nome": "Bahia",
+      "nome_completo": "Bahia",
+      "slug": "bahia"
+    },
+    "visitante": {
+      "id": 20010,
+      "nome": "Sport Recife",
+      "nome_completo": "Sport Recife",
+      "slug": "sport-recife"
+    },
+    "gols_mandante": 0,
+    "gols_visitante": 0,
+    "status": "PENDENTE",
+    "estadio": {
+      "nome": null,
+      "slug": null,
+      "cidade": null,
+      "estado": null
+    }
+  },
+  {
+    "id": 829870,
+    "rodada": 37,
+    "data": "ADefinir",
+    "hora": null,
+    "mandante": {
+      "id": 63238,
+      "nome": "Fortaleza Ec Saf",
+      "nome_completo": "Fortaleza Ec Saf",
+      "slug": "fortaleza-ec-saf"
+    },
+    "visitante": {
+      "id": 20001,
+      "nome": "Corinthians",
+      "nome_completo": "Corinthians",
+      "slug": "corinthians"
+    },
+    "gols_mandante": 0,
+    "gols_visitante": 0,
+    "status": "PENDENTE",
+    "estadio": {
+      "nome": null,
+      "slug": null,
+      "cidade": null,
+      "estado": null
+    }
+  },
+  {
+    "id": 829871,
+    "rodada": 37,
+    "data": "ADefinir",
+    "hora": null,
+    "mandante": {
+      "id": 20027,
+      "nome": "Juventude",
+      "nome_completo": "Juventude",
+      "slug": "juventude"
+    },
+    "visitante": {
+      "id": 20008,
+      "nome": "Santos Fc",
+      "nome_completo": "Santos Fc",
+      "slug": "santos-fc"
+    },
+    "gols_mandante": 0,
+    "gols_visitante": 0,
+    "status": "PENDENTE",
+    "estadio": {
+      "nome": null,
+      "slug": null,
+      "cidade": null,
+      "estado": null
+    }
+  },
+  {
+    "id": 829866,
+    "rodada": 37,
+    "data": "16/11/2025",
+    "hora": "19:00",
+    "mandante": {
+      "id": 20007,
+      "nome": "Red Bull Bragantino",
+      "nome_completo": "Red Bull Bragantino",
+      "slug": "red-bull-bragantino"
+    },
+    "visitante": {
+      "id": 62194,
+      "nome": "Atlético Mineiro Saf",
+      "nome_completo": "Atlético Mineiro Saf",
+      "slug": "atlético-mineiro-saf"
+    },
+    "gols_mandante": 2,
+    "gols_visitante": 0,
+    "status": "FINALIZADO",
+    "estadio": {
+      "nome": "Cícero de Souza Marques",
+      "slug": "cícero-de-souza-marques",
+      "cidade": "Braganca Paulista",
+      "estado": "SP"
+    }
+  },
+  {
+    "id": 829864,
+    "rodada": 37,
+    "data": "19/11/2025",
+    "hora": "19:30",
+    "mandante": {
+      "id": 20002,
+      "nome": "Palmeiras",
+      "nome_completo": "Palmeiras",
+      "slug": "palmeiras"
+    },
+    "visitante": {
+      "id": 20018,
+      "nome": "Vitória",
+      "nome_completo": "Vitória",
+      "slug": "vitória"
+    },
+    "gols_mandante": 0,
+    "gols_visitante": 0,
+    "status": "PENDENTE",
+    "estadio": {
+      "nome": "Allianz Parque",
+      "slug": "allianz-parque",
+      "cidade": "Sao Paulo",
+      "estado": "SP"
+    }
+  }
+]
