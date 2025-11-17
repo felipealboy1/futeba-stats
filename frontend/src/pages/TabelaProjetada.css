@@ -1,0 +1,139 @@
+/* ===== LAYOUT ===== */
+.page {
+  padding: 20px 40px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: "Inter", sans-serif;
+}
+
+.nav {
+  display: flex;
+  gap: 14px;
+  margin-bottom: 18px;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: 800;
+  margin-bottom: 6px;
+}
+
+.subtitle {
+  color: #6b7280;
+  margin-bottom: 18px;
+}
+
+/* ===== TABLE WRAPPER ===== */
+.table-wrapper {
+  background: white;
+  border-radius: 18px;
+  padding: 14px 20px;
+  box-shadow: 0 6px 22px rgba(0,0,0,0.06);
+  border: 1px solid rgba(0,0,0,0.05);
+}
+
+.no-header table thead {
+  display: none;
+}
+
+/* ===== TABLE ===== */
+.proj-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.proj-table tr {
+  height: 94px; /* FIXA ALTURA E CENTRALIZA TUDO */
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.pos-cell {
+  width: 40px;
+  text-align: center;
+}
+
+.pos-number {
+  font-weight: 700;
+  font-size: 18px;
+  color: #111827;
+}
+
+/* TIME */
+.team-cell {
+  width: 240px;
+}
+
+.team-wrapper {
+  display: flex;
+  align-items: center;      /* 🔥 Alinha verticalmente */
+  height: 100%;             /* 🔥 Centraliza pelo height da linha */
+  gap: 12px;
+}
+
+.team-name {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.escudo {
+  width: 28px;
+  height: 28px;
+}
+
+/* ===== METRICS ===== */
+.metric-cell {
+  text-align: center;
+  vertical-align: middle;
+  padding: 0 8px;
+}
+
+.metric-value {
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.metric-bar-bg {
+  width: 100%;
+  max-width: 120px;
+  margin: 0 auto;
+  height: 8px;
+  background: #e5e7eb;
+  border-radius: 4px;
+}
+
+.metric-bar {
+  height: 100%;
+  border-radius: 4px;
+}
+
+.probTitulo { background: #22c55e; }
+.probG4 { background: #2563eb; }
+.probG6 { background: #0ea5e9; }
+.probSulAmericana { background: #fbbf24; }
+.probRebaixamento { background: #ef4444; }
+
+.metric-label {
+  margin-top: 6px;
+  font-size: 11px;
+  color: #6b7280;
+}
+
+/* ===== SPARKLINE ===== */
+.sparkline {
+  height: 130px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 1px;
+}
+
+.spark-bar {
+  width: 4px;
+  background: #94a3b8;
+  border-radius: 2px 2px 0 0;
+}
+.spark-bar:hover {
+  background: #1e293b;
+}

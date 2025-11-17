@@ -1,0 +1,22 @@
+{
+  "22": { "id": 22, "nome": "São Paulo", "nome_completo": "São Paulo Futebol Clube", "slug": "sao-paulo" },
+  "35": { "id": 35, "nome": "Sport", "nome_completo": "Sport Club do Recife", "slug": "sport" },
+  "7":  { "id": 7,  "nome": "Cruzeiro", "nome_completo": "Cruzeiro Esporte Clube", "slug": "cruzeiro" },
+  "10": { "id": 10, "nome": "Mirassol", "nome_completo": "Mirassol Futebol Clube", "slug": "mirassol" },
+  "4":  { "id": 4,  "nome": "Grêmio", "nome_completo": "Grêmio Foot-Ball Porto Alegrense", "slug": "gremio" },
+  "5":  { "id": 5,  "nome": "Atlético Mineiro", "nome_completo": "Clube Atlético Mineiro", "slug": "atletico-mineiro" },
+  "12": { "id": 12, "nome": "Fortaleza", "nome_completo": "Fortaleza Esporte Clube", "slug": "fortaleza" },
+  "2":  { "id": 2,  "nome": "Fluminense", "nome_completo": "Fluminense Football Club", "slug": "fluminense" },
+  "18": { "id": 18, "nome": "Juventude", "nome_completo": "Esporte Clube Juventude", "slug": "juventude" },
+  "26": { "id": 26, "nome": "Vitória", "nome_completo": "Esporte Clube Vitória", "slug": "vitoria" },
+  "9":  { "id": 9,  "nome": "Flamengo", "nome_completo": "Clube de Regatas do Flamengo", "slug": "flamengo" },
+  "14": { "id": 14, "nome": "Internacional", "nome_completo": "Sport Club Internacional", "slug": "internacional" },
+  "1":  { "id": 1,  "nome": "Palmeiras", "nome_completo": "Sociedade Esportiva Palmeiras", "slug": "palmeiras" },
+  "3":  { "id": 3,  "nome": "Botafogo", "nome_completo": "Botafogo de Futebol e Regatas", "slug": "botafogo" },
+  "8":  { "id": 8,  "nome": "Vasco da Gama", "nome_completo": "Club de Regatas Vasco da Gama", "slug": "vasco-da-gama" },
+  "11": { "id": 11, "nome": "Santos", "nome_completo": "Santos Futebol Clube", "slug": "santos" },
+  "13": { "id": 13, "nome": "Bahia", "nome_completo": "Esporte Clube Bahia", "slug": "bahia" },
+  "16": { "id": 16, "nome": "Corinthians", "nome_completo": "Sport Club Corinthians Paulista", "slug": "corinthians" },
+  "17": { "id": 17, "nome": "Red Bull Bragantino", "nome_completo": "Red Bull Bragantino", "slug": "red-bull-bragantino" },
+  "19": { "id": 19, "nome": "Ceará", "nome_completo": "Ceará Sporting Club", "slug": "ceara" }
+}

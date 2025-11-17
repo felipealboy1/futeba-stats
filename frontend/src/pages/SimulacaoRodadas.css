@@ -1,0 +1,212 @@
+/* === ESTILO GERAL === */
+.page {
+  padding: 20px;
+  font-family: "Inter", sans-serif;
+  color: #1f2937;
+}
+
+.nav {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+/* Header */
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.title-main {
+  margin: 0;
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.subtitle {
+  margin-top: 4px;
+  color: #6b7280;
+}
+
+.checkbox {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 600;
+}
+
+/* === RODADAS === */
+.rodadas-grid {
+  display: grid;
+  gap: 22px;
+}
+
+.rodada-card {
+  background: #ffffff;
+  border: 1px solid rgba(0,0,0,0.06);
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+}
+
+.rodada-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.rodada-header h2 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.rodada-badge-pill {
+  padding: 6px 12px;
+  background: #eef2ff;
+  color: #4f46e5;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+/* === LAYOUT PRINCIPAL === */
+.rodada-body {
+  display: grid;
+  grid-template-columns: 44% 56%;
+  gap: 20px;
+}
+
+/* === GAME CARDS === */
+.col-left {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.game-card {
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,0.06);
+}
+
+.real-card {
+  background: #ecfdf5;
+}
+
+.sim-card {
+  background: #fff7e6;
+}
+
+/* === GRID DE 4 COLUNAS PARA JOGOS === */
+.game-grid {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr auto;
+  align-items: center;
+  gap: 12px;
+}
+
+.team-left,
+.team-right {
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.score {
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  min-width: 60px;
+}
+
+.status-pill {
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.pill-real {
+  background: #d1fae5;
+  color: #065f46;
+}
+
+.pill-sim {
+  background: #fff1c2;
+  color: #92400e;
+}
+
+/* === PROBABILIDADES SIMULADO ===== */
+.prob-grid {
+  margin-top: 6px;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr auto 1fr;
+  align-items: center;
+  justify-items: center;
+}
+
+.prob-item-center {
+  display: flex;
+  gap: 4px;
+  font-size: 13px;
+  align-items: center;
+}
+
+.prob-label {
+  color: #6b7280;
+  font-weight: 600;
+}
+
+.prob-value {
+  font-weight: 700;
+  color: #1f2937;
+}
+
+/* CLASSIFICAÇÃO */
+.col-right {
+  background: #ffffff;
+  padding: 14px;
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,0.06);
+}
+
+.classif-title {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.classif-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.classif-table th {
+  background: #f9fafb;
+  padding: 6px 8px;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+.classif-table td {
+  padding: 6px 8px;
+  border-bottom: 1px solid rgba(0,0,0,0.04);
+}
+
+.classif-table td.left {
+  text-align: left;
+}
+
+/* Responsivo */
+@media (max-width: 980px) {
+  .rodada-body {
+    grid-template-columns: 1fr;
+  }
+}
