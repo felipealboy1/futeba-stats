@@ -3,7 +3,7 @@
 const API =
   import.meta.env.MODE === "development"
     ? "http://localhost:3001"
-    : "https://SEU_BACKEND_PUBLICO";
+    : "https://futeba-stats.onrender.com";
 
 
 export async function getTimes() {
